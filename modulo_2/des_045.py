@@ -32,7 +32,7 @@ if j == 2:
 if j == 3:
     if c == 1:
         print('O computador escolheu PEDRA')
-        print('Você PERDEU')
+        print('Você PERDEU!')
     elif c == 2:
         print('O computador escolheu PAPEL')
         print('Você VENCEU!')
